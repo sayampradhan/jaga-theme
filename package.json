@@ -1,0 +1,40 @@
+{
+  "name": "jaga-theme",
+  "displayName": "Jaga Theme",
+  "description": "A divine theme inspired by Lord Jagannath, featuring serene deep blue and golden hues for a tranquil coding experience.",
+  "version": "1.0.0",
+  "publisher": "Sayam",
+  "icon": "images/logo.gif", 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sayampradhan/jaga-theme"
+  },
+  "engines": {
+    "vscode": "^0.10.5"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jaga Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jaga-Theme-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "jagannath",
+    "divine",
+    "odisha",
+    "blue",
+    "gold",
+    "theme",
+    "vscode"
+  ],
+  "bugs": {
+    "url": "https://github.com/sayampradhan/jaga-theme/issues"
+  },
+  "homepage": "https://github.com/sayampradhan/jaga-theme"
+}
